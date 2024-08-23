@@ -14,15 +14,15 @@ Live Site: [Rock, Paper, Scissors, Lizard, Spock](https://sushcod3.github.io/roc
 
 ### Features
 
-- View the optimal layout for the game depending on their device's screen size
 - Play Rock, Paper, Scissors, Lizard, Spock against the computer
 - Track the score
+- View the optimal layout for the game depending on their device's screen size
 
 ### Screenshot
 
-![Desktop Screenshot](./public/screenshots/screenshot-desktop.png)
-![Mobile Screenshot](./public/screenshots/screenshot-mobile-win.png)
-![Rules Screenshot](./public/screenshots/screenshot-rules.png)
+![Desktop Screenshot](./public/images/screenshots/screenshot-desktop.png)
+![Mobile Screenshot](./public/images/screenshots/screenshot-mobile-win.png)
+![Rules Screenshot](./public/images/screenshots/screenshot-rules.png)
 
 ### Technologies Used
 
