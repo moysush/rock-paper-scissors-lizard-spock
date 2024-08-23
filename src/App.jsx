@@ -75,7 +75,7 @@ function App() {
               &times;
             </button>
             <img
-              src="/images/image-rules-bonus.svg"
+              src="./images/image-rules-bonus.svg"
               className="w-full max-w-md"
               alt="Rules"
             />
