@@ -10,11 +10,11 @@ function Game({ userScore, computerScore, updateScore }) {
   const choices = ["rock", "paper", "scissors", "lizard", "spock"];
 
   const choiceImages = {
-    rock: "/images/icon-rock.svg",
-    paper: "/images/icon-paper.svg",
-    scissors: "/images/icon-scissors.svg",
-    lizard: "/images/icon-lizard.svg",
-    spock: "/images/icon-spock.svg",
+    rock: "./images/icon-rock.svg",
+    paper: "./images/icon-paper.svg",
+    scissors: "./images/icon-scissors.svg",
+    lizard: "./images/icon-lizard.svg",
+    spock: "./images/icon-spock.svg",
   };
 
   function getRandomChoice() {
