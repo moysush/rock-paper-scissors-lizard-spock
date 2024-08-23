@@ -20,9 +20,9 @@ Live Site: [Rock, Paper, Scissors, Lizard, Spock](https://sushcod3.github.io/roc
 
 ### Screenshot
 
-![Desktop Screenshot](/screenshots/screenshot-desktop.png)
-![Mobile Screenshot](/screenshots/screenshot-mobile-win.png)
-![Rules Screenshot](/screenshots/screenshot-rules.png)
+![Desktop Screenshot](public/screenshots/screenshot-desktop.png)
+![Mobile Screenshot](public/screenshots/screenshot-mobile-win.png)
+![Rules Screenshot](public/screenshots/screenshot-rules.png)
 
 ### Technologies Used
 
