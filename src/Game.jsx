@@ -124,7 +124,7 @@ function Game({ userScore, computerScore, updateScore }) {
         <div className="list mx-auto">
           <div className="pentagon flex justify-center">
             <img
-              src="/images/bg-pentagon.svg"
+              src="./images/bg-pentagon.svg"
               className="absolute z-[-1] mt-12 max-[440px]:w-56"
               alt=""
             />
