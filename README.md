@@ -39,4 +39,4 @@ Live Site: [Rock, Paper, Scissors, Lizard, Spock](https://sushcod3.github.io/roc
 
 ### Acknowledgments
 
-This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/space-tourism-website-using-vuejs-tailwind-css-gsap-and-vue-router-QE7Ddc2Y7q), with some different features implemented by me.
+This project is a solution to the challenges provided by [Frontend Mentor](https://www.frontendmentor.io/solutions/rock-paper-scissors-lizard-spock-reactjs-and-tailwind-css-IuQMvtHciH), with some different features implemented by me.
