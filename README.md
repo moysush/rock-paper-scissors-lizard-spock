@@ -2,7 +2,7 @@
 
 This is a Rock, Paper, Scissors, Lizard, Spock game inspired by the popular TV show [The Big Bang Theory](https://www.youtube.com/watch?v=x5Q6-wMx-K8&t=67s). The game allows you to challenge the computer and track your score. The goal was to recreate the fun and complexity of this expanded version of the classic game, all while honing my skills in React and Tailwind CSS.
 
-Live Site: [Rock, Paper, Scissors, Lizard, Spock](https://isushmoy.github.io/rock-paper-scissors-lizard-spock/)
+Live Site: [Rock, Paper, Scissors, Lizard, Spock](https://moysush.github.io/rock-paper-scissors-lizard-spock/)
 
 ## Table of contents
 
